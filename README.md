@@ -55,3 +55,9 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+
+=====================================
+All codes kept under notebook
+2.0-ak-exploring-processing-data.ipynb (code for Titanic Data cleaning, munging and wrangling. Training dataset and Test dataset created)
