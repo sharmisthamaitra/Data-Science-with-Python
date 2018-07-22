@@ -30,8 +30,10 @@ def main(project_dir):
     logger.info('getting raw data')
     
     #urls
-    train_url = 'https://www.kaggle.com/c/titanic/download/train.csv'
-    test_url = 'https://www.kaggle.com/c/titanic/download/test.csv'
+    #train_url = 'https://www.kaggle.com/c/titanic/download/train.csv'
+    #test_url = 'https://www.kaggle.com/c/titanic/download/test.csv'
+    train_url = 'https://www.kaggle.com/c/titanic/data/train.csv'
+    test_url = 'https://www.kaggle.com/c/titanic/data/test.csv'
 
     #specify paths to store train and test file, under /data/raw
     raw_data_path = os.path.join(os.path.pardir, 'data', 'raw')
